@@ -1,3 +1,5 @@
+# Ocaml extra functions implementation
+
 Developed by Caetán Tojeiro Carpente (caetantojeiro95@gmail.com)
 
 
@@ -15,7 +17,7 @@ The file "tail-recursive-version" contains all previous functions developed in a
 
 **********************************************************************
 
-Copyright (C) 2017  Caetán Tojeiro Carpente
+Copyleft (C) 2017  Caetán Tojeiro Carpente
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
